@@ -1,8 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22097543&assignment_repo_type=AssignmentRepo)
 # wix1002-tutorial-lab-7
 
-### Name: <insert-your-name-here>
-### Matric Number: <insert-your-matric-num-here>
+### Name: < Muhammad Fariz Ilhan Bin Mohd Razif >
+### Matric Number: <24000844>
 
 1. Join the assignment. It will create a template repository in your GitHub repo.
 2. Clone the generated repo to your laptop and start working on it.
